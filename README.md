@@ -1,4 +1,4 @@
-# Information about Me
+# Information about me
 
 This repo serves as a table of contents for me personally and collects documents and resources that I believe are important for work, life and leadership.
 
