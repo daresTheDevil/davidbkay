@@ -14,19 +14,23 @@ I believe that expecting good means being good...and these are things I believe:
 
 I believe in an office that recognizes and celebrates the creativity and collaboration of team members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to our company. I also believe that digital services follow repeatable patters, and if we can identify, document, implement and improve shared strategies, we can become a better organization.
 
-* Acquire, deploy and sustain a technology enabled workforce *
-* Develop enterprise monitoring and support responses *
-* Understand users' needs *
-* Address the user experience *
-* Be modular, composable, simple & intuitive *
-* Be iterative *
-* Structure contracts and budgets for delivery *
-* Ensure service ownership *
-* Develop with flexible hosting in mind *
-* Automate testing & deployments *
-* Address security & privacy early in the development process *
-* Use data for decisions *
-* Use the right tool for the right job
+* Management
+  * Acquire, deploy and sustain a technology enabled workforce
+  * Structure contracts & budgets for delivery
+  * Understand users' needs
+  * Ensure service ownership
+  * Use data for decisions
+* Development
+  * Address the user experience
+  * Be modular, composable, simple & intuitive
+  * Be iterative
+  * Develop with flexible hosting in mind
+  * Automate testing & deployments
+  * Address security & privacy early in the development process
+* Engineering & operations
+  * Develop enterprise monitoring and support responses
+  * Use the right tool for the right job
+  
 
 ## My skills
 
