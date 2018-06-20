@@ -32,9 +32,9 @@ I believe in an office that recognizes and celebrates the creativity and collabo
   * Use the right tool for the right job
   
 
-## My skills
+## How
 
-My skillset spans wide across almost all IT disciplines. I can plan, design, develop, manage and repair most systems. Here's a sense of how I work and what I expect in my roles.
+My skillset spans wide across almost all IT disciplines. I can plan, design, develop, manage and repair most systems. Here's what we can do to make a better organization.
 
 ### Management
 
