@@ -14,22 +14,6 @@ If I am traveling, I will give you notice of said travel in advance.
 
 I usually work late nights and sometimes on weekends. This is my choice. **I do not expect that you are going to work on the weekend.**.
 
-## What makes me tick
-
-**Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
-
-**Leadership comes from everywhere.** I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
-
-**I see things as systems.** I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
-
-**It is important to me that humans are treated fairly.** I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
-
-**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
-
-**I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
-
-**I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
-
 ## Feedback
 
 I firmly believe that feedback is at the core of building trust and respect in a team.
