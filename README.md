@@ -1,8 +1,6 @@
-# Information about me
-
 This repo serves as a table of contents for me personally and collects documents and resources that I believe are important for work, life and leadership.
 
-## Short version
+# Short version
 
 **Humans first.** I believe that happy, informed, and productive humans build fantastic products. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building and working with productive humans.
 
@@ -18,7 +16,7 @@ This repo serves as a table of contents for me personally and collects documents
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
-## The Long Version
+# The Long Version
 
 I believe in an office that recognizes and celebrates the creativity and collaboration of team members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to our company. I also believe that digital services follow repeatable patters, and if we can identify, document, implement and improve shared strategies, we can become a better organization.
 
