@@ -1,6 +1,6 @@
-# employer-test
+# Questions for you
 
-A list of questions to ask potential employers.
+How I work is very important to me. I'm defined by my family and by my work. I also have high expectations for those I work for and with. Questions that help me define a potential workplace include:
 
 ## Work Style
 
@@ -8,6 +8,7 @@ A list of questions to ask potential employers.
 
 * Does one single person own a unit of work (task, project, product, etc)?
 * Can that single person's manager override the decisions made by that person on that unit of work?
+* What is the process for clarifying disagreements between employees and managers?
 
 ### Culture
 
@@ -29,28 +30,22 @@ A list of questions to ask potential employers.
 
 ### Locations
 
-* Can employees work outside of the office ("work from home")?
+* Can employees work remotely?
 * Are there any restrictions on when employees can work outside the office?
 * Do employees each have their own office?
 * Are there partitions or space between each employee's workspace?
 
 ### Time Off
 
-* How much time off is given per employee?
+* How is paid time off handled?
 * Do different employees get a different amount of time off?
 * Is there a minimum amount of time off required/expected of each employee?
 * Is sick leave counted as time off?
 
-### Parental leave
-
-* Who is eligible for parental leave?
-* How much parental leave is given?
-* How much parental leave is taken?
-
 ### On Call
 
 * Are employees expected to be on call?
-* If employees are expected to be on call, is a device provided or compensated?
+* If employees are expected to be on call, is a explain the procedures and related compensation.
 
 ## Compensation and Benefits
 
@@ -59,24 +54,13 @@ A list of questions to ask potential employers.
 * Are pay bands used to determine compensation?
 * Is compensation negotiable?
 
-### How transparent is your compensation?
+### Self improvement and promotion
 
-* Is all employee compensation public knowledge?
-* Is all employee compensation known within the company?
-* Is employee compensation shared within the team?
-
-### What kind of meals are compensations?
-
-* Is breakfast provided?
-* Is lunch provided?
-* Is dinner available and provided?
-* Is there non-meal time food available?
+* Are employees allowed to train and learn during work hours?
+* Are employees rewarded for self improvement (certifications, etc.)
+* Are employees promoted or are they forced to transfer positions?
 
 ## Organizational Structure
-
-### Who do people report to?
-
-* Does every individual have one single manager they report to?
 
 ### Distributed teams
 
@@ -87,28 +71,13 @@ A list of questions to ask potential employers.
 
 ## Tech / Tools
 
-### How are devices supported?
+### Device details
 
 * Are personal devices allowed to connect to the company network?
 * BYOD? BYOA?
+* Do employees have a choice of development and management tools?
 
-## Diversity
+## Organizational details
 
-### How is diversity approached?
-
-* Composition of team you will be joining?
-* Does your company have an active diversity policy/program?
-* How do you define diversity?
-
-## "Org smells"
-
-## Finance
-
-* What is the customer churn and/or renewal rate?
-  * Whether they know the rates is a good indicator, separate from what it is.
-* (If a startup) What is your runway? How many employees do you have?
-
-## See also
-
-- Julia Evans' [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
-- [@dml's](https://github.com/dlovitch) list of [Compensation and Benefits](https://github.com/dlovitch/compensation-and-benefits)
+* How many employees do you have?
+* What is the employee turnover?
