@@ -48,7 +48,7 @@ If a meeting completes its intended purpose before itâ€™s scheduled to end, letâ
 
 ## Nuance
 
-**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
+**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
 
 **When I'm asked or I ask you to do something that feels poorly defined** I will and you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
