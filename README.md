@@ -1,13 +1,17 @@
-This repo serves as a table of contents for me personally and collects documents and resources that I believe are important for work, life and leadership.
+I spend lots of time leading and mentoring teammates. I also have very important beliefs that, 
+while not immutable, are common enough to be habitual. I also expect you to hold me accountable
+to these ideas.
 
-I also have [questions for you](QUESTIONS.md).
-Find more information about me [here](STYLE.md).
+**I'm measured by the success of my tactics.** Our strategy is often out of our hands, but I'm usually the person that defines the
+feasibility of a strategy. Assuming it's feasible, I lay out the strategy needed to achieve that goal. Sometimes that involves 
+a new way of doing operations; sometimes it's a more modern dev language, library or implementation. I connect the dots between
+ideas, technology and people.
 
-# Short version
+**Here's what our product does** and **here's what you can do with our product** sound similar, but they're completely different. We shouldn't build products for their own sake...let's build products that improve people's lives.
 
 **Humans first.** I believe that happy, informed, and productive humans build fantastic products. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building and working with productive humans.
 
-**Leadership comes from everywhere.** I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
+**Leadership comes from everywhere.** I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers, even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
 
 **I see things as systems.** I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with everyone's help.
 
@@ -17,11 +21,46 @@ Find more information about me [here](STYLE.md).
 
 **I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere, all the time.
 
-**I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
+**I start with an assumption of positive intent for all involved.** This has worked out well for me over my career.
+
+**The one wo(man) startup** mindset gives us the ability to quickly change direction when we're needed. We don't control our strategy, so we must
+adapt to ever changing requirements from schools, districts, the legislature and the federal government.
+
+**Optimize for the customer first, product second, project third and the task level last.** Most people operate at the task level without optimizing
+for the project ("it'll be done when it's done"). Others optimize at the project level without understanding how the project or its timeline is affected. 
+Almost noone questions how our product improves people's lives. That's part of my job.
+
+**Conflicts are crucial for growth.** Don't be afraid to call people out in a respectful way. If you see something that's not right, point it out.
+Be kind and constructive, but don't hold back.
+
+**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Meetings with three of us are perfect, three to eight are ok,and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
+
+**When I'm asked to do something that feels poorly defined** I will for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
+
+**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“David, can you help?”). I respond poorly to being told what to do (“David, do this.”) I have been this way since I was a kid.
+
+**I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
+
+**I love to start new things**. However, one of my bad habits is losing interest once I see how things are going to turn out and the problems are fixed. I recognize this as a flaw and I’m working on it.
+
+**Being busy is not a desired outcome.** Let's do the right things for the right reasons. If we're in a lull, learn something new or help someone else.
+
+**If I am on my phone during a meeting for more than 30 seconds, say something.** My attention wanders.
+
+**No broken windows.** Products should have clean logs, clean exceptions, clean PagerDuty. It's easier to find and diagnose problems when our 
+house is in order.
+
+**Humans stating opinions as facts** are a trigger for me.
+
+**Humans who gossip** are a trigger for me.
+
+**I'm a veteran.** From a family of veterans. Don't assume anything about my political views...you'll probably be wrong. And no, you can't wear your american flag shirt to work. Yes I will say something.
+
+
 
 # The Long Version
 
-I believe in an office that recognizes and celebrates the creativity and collaboration of team members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to our company. I also believe that digital services follow repeatable patters, and if we can identify, document, implement and improve shared strategies, we can become a better organization.
+I believe in an office that recognizes and celebrates the creativity and collaboration of team members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to our company. I also believe that digital services follow repeatable patters, and if we can identify, document, implement and improve shared strategies, we can be better.
 
 * Management
   * Acquire, deploy and sustain a technology enabled workforce
@@ -40,8 +79,7 @@ I believe in an office that recognizes and celebrates the creativity and collabo
   * Develop enterprise monitoring and support responses
   * Use the right tool for the right job
   
-
-## How
+## How 
 
 My skillset spans wide across almost all IT disciplines. I can plan, design, develop, manage and repair most systems. Here's what we can do to make a better organization.
 
